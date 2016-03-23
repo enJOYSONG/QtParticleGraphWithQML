@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StarView.qml</file>
+        <file>ChemicalController.qml</file>
+        <file>Graph.qml</file>
+        <file>LoadedStarView.qml</file>
+        <file>ChemicalControlsView.qml</file>
+        <file>StarViewAdapter.qml</file>
+        <file>ColorButtonView.qml</file>
+        <file>ColorButtonViewAdapter.qml</file>
+        <file>colordata.xml</file>
+        <file>BarChartViewAdapter.qml</file>
+        <file>BarChartView.qml</file>
+        <file>ChemicalElement.qml</file>
+        <file>StarSizeSelector.qml</file>
+        <file>StarSizeSelectAdapter.qml</file>
+        <file>PieChartView.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="earth.png">images/earth.png</file>
+        <file alias="galaxy_starfield.png">images/galaxy_starfield.png</file>
+        <file alias="jupiter.png">images/jupiter.png</file>
+        <file alias="mars.png">images/mars.png</file>
+        <file alias="mercury.png">images/mercury.png</file>
+        <file alias="neptune.png">images/neptune.png</file>
+        <file alias="venus.png">images/venus.png</file>
+    </qresource>
+</RCC>
